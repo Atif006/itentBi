@@ -1,0 +1,37 @@
+.listItem{
+    color: white;
+}
+
+.picbox{-webkit-box-shadow: -2px 4px 12px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: -2px 4px 12px -1px rgba(0,0,0,0.75);
+box-shadow: -2px 4px 12px -1px rgba(0,0,0,0.75);
+}
+.otherbox{-webkit-box-shadow: -2px 4px 12px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: -2px 4px 12px -1px rgba(0,0,0,0.75);
+box-shadow: -2px 4px 12px -1px rgba(0,0,0,0.75);
+}
+
+.personalbox{-webkit-box-shadow: -2px 4px 12px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: -2px 4px 12px -1px rgba(0,0,0,0.75);
+    box-shadow: -2px 4px 12px -1px rgba(0,0,0,0.75);
+    }
+.addnamebox{-webkit-box-shadow: -2px 4px 12px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: -2px 4px 12px -1px rgba(0,0,0,0.75);
+  box-shadow: -2px 4px 12px -1px rgba(0,0,0,0.75);
+ }
+.addlanguage{-webkit-box-shadow: -2px 4px 12px -1px rgba(0,0,0,0.75);
+  -moz-box-shadow: -2px 4px 12px -1px rgba(0,0,0,0.75);
+  box-shadow: -2px 4px 12px -1px rgba(0,0,0,0.75);
+ }
+ .addhobbies{-webkit-box-shadow: -2px 4px 12px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: -2px 4px 12px -1px rgba(0,0,0,0.75);
+    box-shadow: -2px 4px 12px -1px rgba(0,0,0,0.75);
+   }
+   .addexperienc{-webkit-box-shadow: -2px 4px 12px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: -2px 4px 12px -1px rgba(0,0,0,0.75);
+    box-shadow: -2px 4px 12px -1px rgba(0,0,0,0.75);
+   }
+   .addeducation{-webkit-box-shadow: -2px 4px 12px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: -2px 4px 12px -1px rgba(0,0,0,0.75);
+    box-shadow: -2px 4px 12px -1px rgba(0,0,0,0.75);
+   }
