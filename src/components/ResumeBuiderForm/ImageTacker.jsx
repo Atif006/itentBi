@@ -38,7 +38,7 @@ function ImageTacker() {
           label="Contact No"
           variant="standard"
           name="contact"
-          value={}
+       
           onCanPlay={inputData}
         />
       </A.Grid>
@@ -48,7 +48,7 @@ function ImageTacker() {
           label="Email Id "
           variant="standard"
           name="email"
-          value={}
+       
           onCanPlay={inputData}
         />
       </A.Grid>
@@ -58,7 +58,7 @@ function ImageTacker() {
           label="Current City"
           variant="standard"
           name="city "
-          value={}
+   
           onCanPlay={inputData}
         />
       </A.Grid>
@@ -68,7 +68,7 @@ function ImageTacker() {
           label="Linkdin Id "
           variant="standard"
           name="linkedin"
-          value={}
+       
           onCanPlay={inputData}
         />
       </A.Grid>
