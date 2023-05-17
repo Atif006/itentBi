@@ -6,12 +6,10 @@ function ImageTacker() {
 //   const [profile, setProfile] = useState({});
 //   const [file, setFile] = useState();
   function handleChange(e) {
-    console.log(e.target.files);
-    setFile(URL.createObjectURL(e.target.files[0]));
+    
   }
   const inputData = (e) => {
-    // setProfile(...profile,e.target.name:e.target.value);
-    console.log(profile);
+    
   };
 
   return (
@@ -40,7 +38,7 @@ function ImageTacker() {
           label="Contact No"
           variant="standard"
           name="contact"
-          value={profile.contact}
+          value={}
           onCanPlay={inputData}
         />
       </A.Grid>
@@ -50,7 +48,7 @@ function ImageTacker() {
           label="Email Id "
           variant="standard"
           name="email"
-          value={profile.email}
+          value={}
           onCanPlay={inputData}
         />
       </A.Grid>
@@ -60,7 +58,7 @@ function ImageTacker() {
           label="Current City"
           variant="standard"
           name="city "
-          value={profile.city}
+          value={}
           onCanPlay={inputData}
         />
       </A.Grid>
@@ -70,7 +68,7 @@ function ImageTacker() {
           label="Linkdin Id "
           variant="standard"
           name="linkedin"
-          value={profile.linkedin}
+          value={}
           onCanPlay={inputData}
         />
       </A.Grid>
