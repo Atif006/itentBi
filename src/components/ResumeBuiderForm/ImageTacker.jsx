@@ -3,8 +3,8 @@ import * as A from "@mui/material";
 import React, { useState } from "react";
 
 function ImageTacker() {
-  const [profile, setProfile] = useState({});
-  const [file, setFile] = useState();
+//   const [profile, setProfile] = useState({});
+//   const [file, setFile] = useState();
   function handleChange(e) {
     console.log(e.target.files);
     setFile(URL.createObjectURL(e.target.files[0]));
